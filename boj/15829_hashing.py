@@ -1,4 +1,5 @@
 # https://www.acmicpc.net/problem/15829
+
 L = int(input())
 string = input()
 code = 97
